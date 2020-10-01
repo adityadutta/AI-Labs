@@ -1,0 +1,6 @@
+﻿  AStar.cpp
+d:\humber\_humber_fall_2019\artificial intelligence - game-302-0nb\assignments\game302_assignment2\lib\sdl2-2.0.7\include\sdl_surface.h(70): warning C4099: 'SDL_Surface': type name first seen using 'class' now seen using 'struct'
+  d:\humber\_humber_fall_2019\artificial intelligence - game-302-0nb\assignments\game302_assignment2\lib\sdl2-2.0.7\include\sdl_surface.h(69): note: see declaration of 'SDL_Surface'
+d:\humber\_humber_fall_2019\artificial intelligence - game-302-0nb\assignments\game302_assignment2\pathfinding\astar.cpp(93): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  Pathfinding.vcxproj -> D:\HUMBER\_Humber_Fall_2019\Artificial Intelligence - GAME-302-0NB\Assignments\Game302_Assignment2\Debug\Pathfinding.exe
+  Pathfinding.vcxproj -> D:\HUMBER\_Humber_Fall_2019\Artificial Intelligence - GAME-302-0NB\Assignments\Game302_Assignment2\Debug\Pathfinding.pdb (Partial PDB)
